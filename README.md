@@ -12,7 +12,8 @@
 * Eslint
 * Prettier
 
-## 💯 Grade/Nota - 100%
+## 💻 Preview
+###### Link to use the project: https://challenge-buildbox-front-end.vercel.app/
 
 <div align="center" margin="50px">
 	<img src="img/preview.png"/>
