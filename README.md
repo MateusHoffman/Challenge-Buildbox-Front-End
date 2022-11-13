@@ -11,8 +11,6 @@
 * Polished
 * Eslint
 * Prettier
-* Javascript
-* Javascript
 
 ## 💯 Grade/Nota - 100%
 
